@@ -1,0 +1,30 @@
+.btn {
+  border: none;
+  font-size: 1.6rem;
+  font-weight: 600;
+  padding: 18px 21px 20px 22px;
+  border-radius: 10px;
+  color: #fff;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  transition: opacity 0.15s;
+
+  &-outline {
+    border: 2px solid $primary-color;
+    color: $primary-color;
+    transition: background-color 0.15s, color 0.15s;
+
+    &:hover {
+      background-color: $primary-color;
+      color: #fff;
+    }
+  }
+
+  &-secondary {
+    background-color: $secondary-color;
+
+    &:hover {
+      opacity: 0.9;
+    }
+  }
+}

@@ -1,0 +1,49 @@
+@import "../utilities/variables";
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: auto;
+  letter-spacing: 0.5px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Lora";
+  font-weight: 700;
+  color: $primary-color;
+}
+
+h1 {
+  font-size: 6rem;
+}
+
+h2 {
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+h3 {
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+}
+
+h4 {
+  font-size: 1.6rem;
+}
+
+p {
+  font-size: 1.4rem;
+  line-height: 1.41;
+  color: $text-color;
+}
+
+a {
+  color: $text-color;
+  font-size: 1.8rem;
+}
