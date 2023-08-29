@@ -4,5 +4,4 @@
 ## Tablet
 ![image](https://github.com/d1magine/baikal/assets/82451955/28142211-b5ce-4b87-bee0-2eb748327673)
 ## Mobile
-![image](https://github.com/d1magine/baikal/assets/82451955/e2235ac8-e7ee-4df8-bb9b-30b3de3a3ae5)
-
+![image](https://github.com/d1magine/baikal/assets/82451955/8fea5c66-670a-4360-b82e-a8288091809a)
